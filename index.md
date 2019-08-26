@@ -1,3 +1,9 @@
+# Vidur Gupta's First CS193 Homework
+I love CS193 because...
+- It is a class to learn practical tools for industry.
+- I see the direct applications and necessary use cases.
+- I get to explore computer programming in different ways!
+
 ## Welcome to GitHub Pages
 ### This is Vidur Gupta
 
